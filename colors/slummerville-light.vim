@@ -38,7 +38,7 @@ hi StorageClass guifg=#FF9900 guibg=NONE guisp=NONE gui=bold ctermfg=208 ctermbg
 hi Special guifg=#009ac9 guibg=NONE guisp=NONE gui=NONE ctermfg=38 ctermbg=NONE cterm=NONE
 hi LineNr guifg=#000000 guibg=NONE guisp=NONE gui=NONE ctermfg=NONE ctermbg=NONE cterm=NONE
 hi StatusLine guifg=#000000 guibg=NONE guisp=NONE gui=bold ctermfg=NONE ctermbg=NONE cterm=bold
-hi Normal guifg=#000000 guibg=#ffffff guisp=#ffffff gui=NONE ctermfg=NONE ctermbg=15 cterm=NONE
+hi Normal guifg=#020224 guibg=#ffffff guisp=#ffffff gui=NONE ctermfg=17 ctermbg=15 cterm=NONE
 hi Label guifg=#FF9900 guibg=NONE guisp=NONE gui=NONE ctermfg=208 ctermbg=NONE cterm=NONE
 "hi CTagsImport -- no settings --
 hi PMenuSel guifg=#000000 guibg=#949698 guisp=#949698 gui=NONE ctermfg=NONE ctermbg=246 cterm=NONE
