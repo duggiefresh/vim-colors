@@ -21,3 +21,4 @@ hi String           ctermbg=NONE ctermfg=10   cterm=NONE      guibg=NONE    guif
 hi Todo             ctermbg=NONE ctermfg=NONE cterm=reverse   guibg=NONE    guifg=NONE    gui=reverse
 hi Type             ctermbg=NONE ctermfg=13   cterm=NONE      guibg=NONE    guifg=#ff00ff gui=NONE
 hi Underlined       ctermbg=NONE ctermfg=15   cterm=underline guibg=NONE    guifg=#ffffff gui=underline
+hi CursorLine       ctermbg=234  ctermfg=NONE cterm=NONE      guibg=#1c1c1c guifg=NONE    gui=NONE guisp=#1c1c1c
